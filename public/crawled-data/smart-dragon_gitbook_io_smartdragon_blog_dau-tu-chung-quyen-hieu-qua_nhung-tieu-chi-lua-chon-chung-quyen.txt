@@ -1,0 +1,106 @@
+💬
+BLOG
+🎯
+ĐẦU TƯ CHỨNG QUYỀN HIỆU QUẢ
+⛳
+Những tiêu chí lựa chọn chứng quyền
+1. Tiềm năng tăng giá của CKCS
+
+Quý NĐT nên lựa chọn CKCS có định giá hấp dẫn và tiềm năng tăng giá trong tương lai, do giá thị trường của CKCS và giá CQ của CKCS đó biến động cùng chiều.
+
+Quý NĐT có thể xem bảng tổng hợp những mã CQ có cùng CKCS trên bảng giá Chứng quyền của Rồng Việt bằng thao tác sau: 
+
+📍Bước 1: Truy cập bảng giá Chứng quyền và double click chọn mã CQ bất kỳ của CKCS bạn đang quan tâm
+
+📍Bước 2: Chọn tab Định giá và kéo chuột đến phần Chứng quyền cùng Chứng khoán Cơ sở
+
+2. Thời gian đáo hạn
+
+Ngày đáo hạn là ngày cuối cùng mà chứng quyền có hiệu lực.
+
+🎯 Đối với những NĐT theo phương pháp 1 sẽ ưu tiên lựa chọn những mã CQ có thời gian đến ngày đáo hạn còn dài để có thể tìm kiếm lợi nhuận từ chênh lệch giá mua và giá bán.
+
+🎯 Đối với những NĐT theo phương pháp 2 sẽ dựa vào ngày đáo hạn để xác định giá kỳ vọng của CKCS vào khoảng thời gian đó.
+
+Quý NĐT nên lựa chọn những chứng quyền có số ngày còn lại đến ngày đáo hạn đủ dài để đầu tư. Các chứng quyền có thời gian còn lại càng ngắn thì rủi ro càng cao và ngược lại. Càng gần sát ngày đáo hạn thì giá trị chứng quyền càng giảm dần.
+
+Quý NĐT có thể xem thông tin về Số ngày còn lại trên bảng giá Chứng quyền của Rồng Việt chỉ với thao tác đơn giản sau:
+
+📍Truy cập bảng giá Chứng quyền và rê chuột đến mã CQ cần xem
+
+3. Tính thanh khoản
+
+Quý NĐT nên lựa chọn những mã chứng quyền có khối lượng giao dịch cao để đảm bảo khả năng thanh khoản.
+
+4. Chênh lệch giữa điểm hòa vốn và giá thị trường của CKCS 
+
+Điểm hòa vốn là giá thị trường của CKCS mà tại đó Quý NĐT sẽ bắt đầu hòa vốn khi mua CQ ở thời điểm hiện tại. 
+
+Điểm hòa vốn = Giá thực hiện + Giá CQ hiện tại x Tỷ lệ chuyển đổi
+
+Do đó, Quý NĐT nên lựa chọn những chứng quyền có chênh lệch giữa điểm hòa vốn và giá thị trường của CKCS thấp để giảm thiểu rủi ro.
+
+Quý NĐT có thể xem thông tin về Điểm hòa vốn, Chênh lệch giữa điểm hòa vốn và giá thị trường của CKCS (theo giá trị tuyệt đối hoặc tỷ lệ phần trăm) ngay trên bảng giá Chứng quyền của Rồng Việt như sau:
+
+📍Bước 1: Truy cập bảng giá Chứng quyền
+
+📍Bước 2: Kéo thanh cuộn sang ngang để xem những thông tin quan trọng này
+
+5. Chênh lệch giữa giá lý thuyết và giá thị trường của CQ
+
+Quý NĐT nên lựa chọn những chứng quyền có chênh lệch giữa giá lý thuyết (được tính bằng mô hình Black Scholes) và giá thị trường thấp. 
+
+Quý NĐT có thể xem thông tin về Định giá CQ, chênh lệch giữa giá lý thuyết và giá thị trường của CQ, trạng thái hiện tại của CQ trên bảng giá Chứng quyền của Rồng Việt như sau:
+
+📍Bước 1: Truy cập bảng giá Chứng quyền và double click chọn mã CQ cần xem chi tiết 
+
+📍Bước 2: Chọn tab Định giá
+
+📍Bước 3: Nhập Dự báo biến động giá CKCS (%) và Lãi suất phi rủi ro và nhấp chọn TÍNH TOÁN để định giá CQ theo mô hình Black Scholes.
+
+📍Bước 4: Xem kết quả định giá trong bảng KẾT QUẢ
+
+🎯 Quý NĐT có thể dùng 2 phương pháp sau để xác định dự báo biến động: 
+
+    👉 Sử dụng phương pháp phân tích kỹ thuật để xác định điểm hỗ trợ và kháng cự
+
+    👉 Dựa vào giá mục tiêu từ các báo cáo phân tích của các công ty chứng khoán uy tín
+
+6. Giá thị trường của CKCS so với giá thực hiện
+
+Quý NĐT nên chọn những chứng quyền có giá thực hiện sát hoặc nhỏ hơn nhiều so với giá thị trường của CKCS vì trong trường hợp nắm giữ CQ đến ngày đáo hạn thì giá thanh toán mà Quý NĐT nhận được phụ thuộc vào công thức sau:
+
+Giá thanh toán (dự kiến) = (Giá bình quân dự kiến - Giá thực hiện)/Tỷ lệ chuyển đổi
+
+Quý NĐT có thể xem thông tin về Giá thị trường CKCS và Biến động giá CKCS  ngay trên bảng giá Chứng quyền của Rồng Việt như sau:
+
+📍 Bước 1: Truy cập bảng giá Chứng quyền 
+
+📍 Bước 2: Kéo thanh cuộn sang ngang để xem những thông tin này
+
+7. Tổ chức phát hành
+
+Quý NĐT nên lựa chọn những chứng quyền được phát hành bởi những tổ chức có đặc điểm sau:
+
+🎯 Đảm bảo khả năng thanh toán
+
+🎯 Đảm bảo tính thanh khoản cho CQ mà tổ chức phát hành
+
+🎯 Chủ động tạo lập thị trường
+
+8. Tips tìm những mã chứng quyền tìm năng trên bảng giá chứng quyền của Rồng Việt
+
+Quý NĐT có thể sử dụng Bộ lọc chứng quyền ngay trên bảng giá để có thể lựa chọn được những mã chứng quyền theo những tiêu chí sau:
+
+Chứng khoán cơ sở
+
+Tổ chức phát hành
+
+Ngày giao dịch cuối cùng
+
+Previous
+Các phương pháp đầu tư
+Next
+Chứng quyền vs CKCS có đòn bẩy tài chính
+
+Last updated 11 months ago

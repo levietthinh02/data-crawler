@@ -1,0 +1,74 @@
+📈
+SMART INVEST
+BIỂU ĐỒ TÀI CHÍNH
+HỆ THỐNG BIỂU ĐỒ
+Nhóm biểu đồ Ngân hàng
+
+Nhóm biểu đồ Ngân hàng có 23 biểu đồ đại diện 5 nhóm chỉ số khác nhau: chỉ số tăng trưởng, chỉ số chất lượng, chỉ số sinh lời, cơ cấu tài chính và cơ cấu lợi nhuận.
+
+Biểu đồ mẫu
+Có 5 nhóm biểu đồ: 
+
+1.  Biểu đồ chỉ số tăng trưởng
+
+Tăng trưởng thu nhập & Lợi nhuận - Thể hiện tốc độ tăng trưởng Thu nhập ngoài lãi, Thu nhập lãi thuần và Lợi nhuận sau thuế của ngành Ngân hàng qua từng kỳ.
+
+2.  Nhóm biểu đồ cơ cấu tài chính
+
+Cơ cấu tài sản - Thể hiện cấu phần của tài sản ngành Ngân hàng qua từng kỳ.
+
+Cơ cấu nguồn vốn - Thể hiện cấu phần của nguồn vốn ngành Ngân hàng qua từng kỳ.
+
+Cơ cấu vốn chủ sở hữu - Thể hiện cấu phần của vốn chủ sở hữu ngành Ngân hàng qua từng kỳ.
+
+Chỉ số LDR - Thể hiện số lượng tiền gửi của khách hàng, cho vay khách hàng và chỉ số tiền gửi LDR ngành Ngân hàng qua từng kỳ.
+
+Tỷ lệ đòn bẩy - Thể hiển lượng tổng tài sản, vốn chủ sở hữu và tỷ lệ đòn bẩy ngành Ngân hàng qua từng kỳ.
+
+Cho vay phân theo thời gian - Thể hiện lượng tiền cho vay ngắn hạn, trung hạn và ngắn hạn ngành Ngân hàng qua từng kỳ.
+
+Tiền gửi phân theo loại tiền gửi - Thể hiện lượng tiền gửi không kỳ hạn, có kỳ hạn, tiền gửi ký quỹ và tổng tiền gửi của khách hàng ngành Ngân hàng qua từng kỳ.
+
+3.  Nhóm biểu đồ chất lượng lợi nhuận
+
+Lưu chuyển dòng tiền - Thể hiện dòng tiền từ hoạt động tài chính, hoạt động đầu tư, hoạt động kinh doanh và dòng tiền ròng ngành Ngân hàng qua từng kỳ.
+
+Tỷ lệ nợ xấu - Thể hiện tỷ lệ nợ xấu (NPL) và tỷ lệ dự phòng rủi ro cho vay/cho vay khách hàng ngành Ngân hàng qua từng kỳ.
+
+4.  Nhóm biểu đồ cơ cấu lợi nhuận
+
+Doanh thu thuần (Cả năm) - Thể hiện doanh thu thuần 4 quý ngành Ngân hàng qua từng năm.
+
+Lợi nhuận sau thuế (Cả năm) - Thể hiện lợi nhuận sau thuế 4 quý ngành Ngân hàng qua từng năm.
+
+Tổng thu nhập hoạt động - Thể hiện tốc độ tăng trưởng và tổng thu nhập hoạt động ngành Ngân hàng qua từng kỳ.
+
+Cơ cấu thu nhập - Thể hiện cấu phần của thu nhập và lợi nhuận sau thuế ngành Ngân hàng qua từng kỳ.
+
+Lợi nhuận sau thuế - Thể hiện tốc độ tăng trưởng và tổng lợi nhuận sau thuế ngành Ngân hàng qua từng kỳ.
+
+Cơ cấu thu nhập lãi thuần - Thể hiện cấu phần của thu nhập lãi thuần ngành Ngân hàng qua từng kỳ.
+
+Cơ cấu tổng thu nhập hoạt động - Thể hiện cấu phần của thu nhập hoạt động ngành Ngân hàng qua từng kỳ.
+
+Cơ cấu lợi nhuận sau thuế - Thể hiện cấu phần của lợi nhuận sau thuế ngành Ngân hàng qua từng kỳ.
+
+Thu nhập ngoài lãi/Thu nhập từ lãi - Thể hiện thu nhập lãi thuần, lãi thuần từ hoạt động dịch vụ và tỷ lệ thu nhập ngoài lãi/thu nhập từ lãi ngành Ngân hàng qua từng kỳ.
+
+Tỷ lệ CASA - Thể hiện tỷ lệ tiền gửi không kỳ hạn (CASA)ngành Ngân hàng qua từng kỳ.
+
+5.  Nhóm biểu đồ chỉ số sinh lời
+
+Biên lợi nhuận - Thể hiện biên chi phí hoạt động (CIR), biên lợi nhuận trước dự phòng rủi ro tín dụng và biên lãi ròng ngành Ngân hàng qua từng kỳ.
+
+Hiệu quả quản lý - Thể hiện 2 chỉ số ROA và ROE ngành Ngân hàng qua từng kỳ.
+
+Hiệu quả hoạt động NH - Thể hiện biên lãi ròng (NIM), chi phí huy động vốn (COF) và tỷ suất sinh lời tài sản sinh lãi (YEOA) ngành Ngân hàng qua từng kỳ.
+
+Tất cả biểu đồ thuộc ngành Ngân hàng
+Previous
+Nhóm biểu đồ doanh nghiệp
+Next
+Nhóm biểu đồ Công ty chứng khoán
+
+Last updated 2 years ago

@@ -1,0 +1,112 @@
+📈
+SMART INVEST
+BIỂU ĐỒ TÀI CHÍNH
+HỆ THỐNG BIỂU ĐỒ
+Nhóm biểu đồ doanh nghiệp
+
+Nhóm biểu đồ Doanh nghiệp gồm 39 biểu đồ đại diện cho 8 nhóm chỉ số khác nhau: chỉ số đánh giá, chỉ số tăng trưởng, chỉ số thanh toán, chỉ số hiệu quả, chỉ số hoạt động, cơ cấu lợi nhuận, cơ cấu dòng tiền và cơ cấu tài sản.
+
+Biểu đồ mẫu
+Có 8 nhóm biểu đồ:
+
+1. Biểu đồ chỉ số đánh giá
+
+Cổ tức - Thể hiện cổ tức tiền mặt đã trả và tỉ lệ cổ tức đã trả/vốn điều lệ qua từng kỳ.
+
+2. Nhóm biểu đồ cơ cấu dòng tiền
+
+Lưu chuyển dòng tiền - Thể hiện dòng tiền hoạt động Kinh doanh (OCF), dòng tiền hoạt động Tài chính, đầu tư tài chính (ròng), đầu tư tài sản cố định (CAPEX) và dòng tiền ròng qua từng kỳ
+
+Dòng tiền tự do (FCF) - Thể dòng tiền HĐ Kinh doanh (OCF), đầu tư tài sản cố định (CAPEX) và dòng tiền tự do (FCF) qua từng kỳ.
+
+Dòng tiền hoạt động kinh doanh - Thể hiện dòng tiền hoạt động Kinh doanh (OCF) lũy kế 4 quý và mỗi quý.
+
+3. Nhóm biểu đồ chỉ số hoạt động
+
+Chu kì tiền mặt - Thể hiện số ngày phải thu (DSO), số ngày tồn kho (DIO), số ngày phải trả (DPO) và chu kì tiền mặt (CCC) qua từng kỳ.
+
+Chỉ số thanh khoản - Thể hiện chỉ số thanh toán hiện hành, chỉ số thanh toán nhanh và chỉ số tiền mặt qua từng kỳ.
+
+Người mua trả tiền trước - Thể hiện doanh thu thuần, số tiền người mua trả tiền trước và tỷ lệ người mua trả tiền trước/doanh thu thuần qua từng kỳ.
+
+Hiệu quả sử dụng tài sản cố định - Thể hiện lượng tài sản dang dở dài hạn, tài sản cố định vô hình, tài sản cố định hữu hình và EBIT/TSCĐ qua từng kỳ.
+
+Phải thu, Tồn kho & Phải trả người bán - Thể hiện lượng tiền phải thu, hàng tồn kho và phải trả người bán qua từng kỳ.
+
+Số ngày phải thu (DSO) - Thể hiện doanh thu, số tiền phải thu và số ngày phải thu qua từng kỳ.
+
+Số ngày phải trả (DIO) - Thể hiện doanh thu, số tiền phải trả người bán và số ngày phải trả qua từng kỳ.
+
+Số ngày tồn kho (DPO) - Thể hiện doanh thu, hàng tồn kho và số ngày tồn kho qua từng kỳ.
+
+4. Biểu đồ chỉ số tăng trưởng
+
+Tăng trưởng Doanh thu & Lợi nhuận - Thể hiện tốc độ tăng trưởng doanh thu, lợi nhuận hoạt động kinh doanh và lợi nhuận sau thuế qua từng kỳ.
+
+5. Nhóm biểu đồ chỉ số hiệu quả
+
+Biên lợi nhuận - Thể hiện biên lợi nhuận gộp, biên lợi nhuận hoạt động kinh doanh và biên lợi nhuận ròng qua từng kỳ.
+
+Hiệu quả Quản lý - Thể hiện 3 chỉ số ROE, ROA, ROIC qua từng kỳ.
+
+F score - Thể hiện điểm F score của doanh nghiệp qua từng kỳ.
+
+ROE - Phân tích Dupont - Thể hiện đòn bẩy tài sản, vòng quay tài sản và biên lãi ròng qua từng kỳ.
+
+Chất lượng lợi nhuận - Thể hiện tỷ lệ EBITDA/OCF và LNST/OCF qua từng kỳ.
+
+6. Nhóm biểu đồ cơ cấu lợi nhuận
+
+Doanh thu thuần - Thể hiện doanh thu thuần và tốc độ tăng trưởng doanh thu thuần qua từng kỳ.
+
+Cơ cấu lợi nhuận - Thể hiện lợi nhuận hoạt động kinh doanh, hoạt động tài chính và lợi nhuận sau thuế qua từng kỳ.
+
+Lợi nhuận sau thuế - Thể hiện lợi nhuận sau thuế và tốc độ tăng trưởng lợi nhuận sau thuế qua từng kỳ.
+
+Cơ cấu Doanh thu & Chi phí - Thể hiện doanh thu, giá vốn, chi phí bán hàng, chi phí quản lý và EBIT qua từng kỳ.
+
+Cơ cấu Lợi nhuận gộp & Chi phí - Thể hiện lợi nhuận gộp, chi phí bán hàng, chi phí quản lý và EBIT qua từng kỳ.
+
+Cơ cấu LNST & Chi phí - Thể hiện cấu phần của lợi nhuận sau thuế và chi phí qua từng kỳ.
+
+Chi phí hoạt động - Thể hiện chi phí quản lý, chi phí bán hàng, tỷ lệ chi phí bán hàng/doanh thu và tỷ lệ chi phí hoạt động/doanh thu.
+
+Chi phí khấu hao - Thể hiện chi phí khấu hao và tỷ lệ khấu hao/giá vốn hàng bán
+
+Chi phí sản xuất kinh doanh theo yếu tố - Thể hiện chi phí nguyên vật liệu, chi phí nhân công, chi phí khấu hao tài sản cố định, chi phí dịch vụ mua ngoài và chi phí khác bằng tiền.
+
+EBITDA & LNST - Thể hiện chỉ số EBITDA, lợi nhuận sau thế và dòng tiền hoạt động kinh doanh lũy kế 4 quý gần nhất.
+
+Doanh thu thuần (Cả năm) - Thể hiện doanh thu thuần 4 quý qua từng năm.
+
+Lợi nhuận sau thuế (Cả năm)  - Thể hiện lợi nhuận sau thuế 4 quý qua từng năm.
+
+7. Nhóm biểu đồ chỉ số thanh toán
+
+Khả năng thanh toán lãi vay - Thể hiện chỉ số EBIT/chi phí lãi vay và EBIT/chi phí tài chính qua từng kỳ.
+
+Chi phí lãi vay bình quân - Thể hiện chi phí lãi vay và lãi suất vay bình quân qua từng kỳ.
+
+8. Nhóm biểu đồ cơ cấu tài sản
+
+Cơ cấu Tài sản - Thể hiện lượng tài sản ngắn hạn, tài sản dài hạn và tổng tài sản qua từng kỳ.
+
+Cơ cấu Nguồn vốn - Thể hiện lượng nợ chiếm dụng, nợ vay ngắn hạn, nợ vay dài hạn và vốn chủ sở hữu qua từng kỳ.
+
+Cơ cấu lãi vay - Thể hiện cấu phần của lãi vay qua từng kỳ.
+
+Cơ cấu Tài sản ngắn hạn - Thể hiện cấu phần của tài sản ngắn hạn qua từng kỳ.
+
+Cơ cấu Tài sản dài hạn - Thể hiện cấu phần của tài sản dài hạn qua từng kỳ.
+
+Cơ cấu Vốn chủ sở hữu - Thể hiện lượng vốn góp, thặng dư vốn cổ phần, lợi nhuận sau thuế chưa phân phối và tổng vốn chủ sở hữu qua từng kỳ.
+
+Cơ cấu Tiền & Đầu tư tài chính - Thể hiện lượng tiền và các khoản tương đương tiền, đầu tư tài chính ngắn hạn và tỷ lệ tiền & đầu tư tài chính ngắn hạn/tổng tài sản.
+
+Tất cả biểu đồ thuộc nhóm doanh nghiệp
+Previous
+Hệ thống biểu đồ
+Next
+Nhóm biểu đồ Ngân hàng
+
+Last updated 2 years ago

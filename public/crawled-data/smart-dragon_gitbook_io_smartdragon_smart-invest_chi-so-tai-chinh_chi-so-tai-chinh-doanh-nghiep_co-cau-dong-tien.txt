@@ -1,0 +1,29 @@
+📈
+SMART INVEST
+CHỈ SỐ TÀI CHÍNH
+CHỈ SỐ TÀI CHÍNH DOANH NGHIỆP
+Cơ cấu dòng tiền
+
+Chỉ số cơ cấu dòng tiền phản ánh tỷ trọng từng cấu phần dòng tiền trong báo cáo Lưu chuyển tiền tệ của doanh nghiệp trong kỳ.
+
+Dòng tiền hoạt động kinh doanh - Thể hiện khả năng tạo tiền từ các hoạt động kinh doanh cốt lỗi của doanh nghiệp.
+
+Dòng tiền hoạt động tài chính - Phát sinh từ các hoạt động tạo ra sự thay đổi kết cấu và qui mô của vốn chủ sở hữu và vốn vay của doanh nghiệp.
+
+HĐ đầu tư khác - Phát sinh liên quan đến hoạt động đầu tư tài sản cố định, đầu tư bất động sản và đầu tư tài chính.
+
+Dòng tiền thuần trong kỳ - Khoản tiền thu được từ các khoản đầu tư sau khi trừ đi các chi phí trong doanh nghiệp. 
+
+Đầu tư Tài sản cố định (CAPEX) - Chi phí đầu tư để mua lại, nâng cấp và duy trì các tài sản cố định.
+
+Đầu tư tài chính (ròng) - Chênh lệch giữa tiền thu và chi từ các hoạt động tài chính.
+
+Dòng tiền tự do (FCF) - Số tiền mà doanh nghiệp tích lũy được sau khi đã trả được hết những khoản chi phí cần thiết cho tất cả các hoạt động kinh doanh.
+
+Cơ cấu dòng tiền
+Previous
+Chỉ số định giá
+Next
+Chỉ số hoạt động
+
+Last updated 2 years ago

@@ -1,0 +1,38 @@
+📈
+SMART INVEST
+CHỈ SỐ TÀI CHÍNH
+CHỈ SỐ TÀI CHÍNH NGÂN HÀNG
+Chỉ số hiệu quả
+
+Chỉ số hiệu quả phản ánh khả năng sinh lời và hiệu quả sử dụng tài sản của ngân hàng.
+
+Tỷ suất sinh lợi trên vốn (ROE) - Phản ánh khả năng sinh lời ngân hàng liên quan đến vốn chủ sở hữu của các cổ đông.
+
+Tỷ suất sinh lợi trên tài sản (ROA) - Phản ánh mức độ hiệu quả mà ngân hàng có thể thu được từ việc đầu tư vào tài sản.
+
+Biên lãi ròng (NIM) - Phản ánh sự chênh lệch phần trăm giữa thu nhập lãi và chi phí lãi phải trả của ngân hàng.
+
+Chi phí huy động vốn (COF) - Phản ánh chi phí lãi và chi phí phi lãi của ngân hàng.
+
+Lãi thuần từ hoạt động dịch vụ/Tổng thu nhập hoạt động - Phản ánh mối tương quan giữa lãi thuần từ hoạt động dịch vụ và tổng thu nhập hoạt động.
+
+Chi phí hoạt động/Tổng thu nhập hoạt động (CIR) - Phản ánh mối tương quan giữa chi phí với thu nhập của ngân hàng.
+
+Biên lợi nhuận trước dự phòng rủi ro tín dụng - Phản ánh thu nhập ròng của ngân hàng so với doanh thu trước dự phòng rủi ro tín dụng.
+
+Thu nhập ngoài lãi/Thu nhập lãi thuần - Phản ánh mối tương quan giữa thu nhập ngoài lãi và thu nhập lãi thuần của ngân hàng.
+
+Biên lợi nhuận sau thuế - Phản ánh khoản thu nhập sau thuế (lợi nhuận sau thuế) của ngân hàng so với doanh thu.
+
+Chỉ số tiền gửi không kì hạn (CASA) - Phản ánh lượng tiền gửi không kỳ hạn của ngân hàng
+
+Tỷ suất sinh lời tài sản sinh lãi (YOEA) - Phản ánh lượng tài sản có sinh lãi tạo ra nguồn thu nhập chính cho ngân hàng.
+
+Những chỉ số được tô màu xanh lá và in đậm là những chỉ số chuyên biệt của ngành Ngân hàng.
+
+Previous
+Chỉ số tăng trưởng
+Next
+Chỉ số hoạt động
+
+Last updated 2 years ago

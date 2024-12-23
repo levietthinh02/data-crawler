@@ -1,0 +1,60 @@
+💬
+BLOG
+🎯
+ĐẦU TƯ CHỨNG QUYỀN HIỆU QUẢ
+⛳
+HIỂU VỀ CHỨNG QUYỀN
+💠
+Các yếu tố ảnh hưởng đến giá chứng quyền
+1. Giá lý thuyết
+
+Dựa vào mô hình Black Scholes để định giá CQ, có thể thấy giá lý thuyết phụ thuộc vào 5 yếu tố sau:
+
+Yếu tố
+Biến động
+Giá chứng quyền
+
+Giá CKCS
+
+Tăng | Giảm
+
+Tăng | Giảm
+
+Biến động giá lịch sử
+
+Tăng | Giảm
+
+Tăng | Giảm
+
+Thời gian đáo hạn
+
+Tăng | Giảm
+
+Tăng | Giảm
+
+Lãi suất
+
+Tăng | Giảm
+
+Tăng | Giảm
+
+Cổ tức
+
+Tăng | Giảm
+
+Giảm | Tăng
+
+2. Giá thị trường
+
+Giá thị trường của CQ được xác định bởi cung cầu của NĐT tham gia thị trưởng và cung cầu của nhà tạo lập. 
+
+Tổ chức phát hành (TCPH) xác định mức giả lý thuyết dựa vào các yếu tố ảnh hưởng đến giá lý thuyết của CQ và tiến hành tạo lập theo phương pháp của mình, tạo ra cung - cầu của TCPH.
+
+Trong khi đó, cung - cầu của NĐT cá nhân được tạo ra dựa trên các yếu tố như : Xu hướng giá CKCS, số ngày còn lại, đòn bẩy của chứng quyền và biến động hàm ý.
+
+Previous
+Chứng quyền là một sản phẩm đầu tư hấp dẫn
+Next
+Rủi ro khi đầu tư chứng quyền
+
+Last updated 11 months ago

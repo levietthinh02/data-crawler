@@ -1,0 +1,24 @@
+🎯
+DASHBOARD
+📰
+THỊ TRƯỜNG
+Giao dịch nước ngoài
+
+Để xem chỉ số nước ngoài, bạn thực hiện các bước sau:
+
+Vào "Trang chủ - Dashboard";
+
+Chọn tab "Nước ngoài".
+
+Chỉ số nước ngoài tại Trang chủ
+
+Trong chỉ số nước ngoài, thể hiện khối lượng và giá trị Mua-Bán trong ngày và 10 phiên gần nhất.
+
+Biểu đồ thể hiện giá trị nước ngoài mua ròng lũy kế trong phiên
+Biểu đồ thể hiện giá trị nước ngoài mua ròng trong 10 phiên gần nhất
+Previous
+Tác động đến Index
+Next
+Giao dịch tổ chức trong nước
+
+Last updated 2 years ago

@@ -1,0 +1,39 @@
+📈
+SMART INVEST
+CHỈ SỐ TÀI CHÍNH
+CHỈ SỐ TÀI CHÍNH DOANH NGHIỆP
+Chỉ số hoạt động
+
+Chỉ số hoạt động phản ánh khả năng của một công ty trong việc chuyển đổi các hạng mục khác nhau thành tiền mặt hoặc doanh thu.
+
+Số ngày phải thu - Số ngày trung bình mà khách hàng cần để hoàn vốn cho doanh nghiệp đối với các sản phẩm hoặc dịch vụ đã mua.
+
+Số ngày tồn kho - Số ngày của một vòng quay hàng tồn kho của một doanh nghiệp.
+
+Số ngày phải trả - Số ngày trung bình mà một doanh nghiệp cần để hoàn trả các khoản phải trả. 
+
+Chu kỳ tiền mặt - Khoảng thời gian từ khi thanh toán các khoản nợ đến khi thu được tiền.
+
+Vòng quay phải thu - Phản ánh khả năng thu hồi vốn trên các khoản công nợ phải thu của công ty.
+
+Vòng quay hàng tồn kho - Số lần một doanh nghiệp bán và thay thế lượng hàng dự trữ của mình trong một thời kỳ nhất định.
+
+Vòng quay phải trả - Phản ánh tốc độ mà doanh nghiệp thanh toán công nợ cho các nhà cung cấp.
+
+Vòng quay vốn lưu động - Phản ánh mức độ sử dụng vốn lưu động của doanh nghiệp để hỗ trợ một mức doanh số nhất định.
+
+Vòng quay tổng tài sản - Phản ánh hiệu quả sử dụng tài sản của doanh nghiệp.
+
+Vòng quay tài sản cố định - Đo lường khả năng của công ty để tạo doanh thu thuần từ các khoản đầu tư tài sản cố định.
+
+Cổ tức đã trả/Vốn điều lệ - Đo lường lượng cổ tức đã trả so với vốn điều lệ của doanh nghiệp.
+
+EBIT/Tài sản cố định - Đo lường lợi nhuận trước thuế và lãi so với tài sản cố định của doanh nghiệp.
+
+Chỉ số hoạt động
+Previous
+Cơ cấu dòng tiền
+Next
+Chỉ số tăng trưởng
+
+Last updated 2 years ago

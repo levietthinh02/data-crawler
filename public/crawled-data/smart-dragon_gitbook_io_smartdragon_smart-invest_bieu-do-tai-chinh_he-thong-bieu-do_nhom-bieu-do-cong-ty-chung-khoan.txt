@@ -1,0 +1,72 @@
+📈
+SMART INVEST
+BIỂU ĐỒ TÀI CHÍNH
+HỆ THỐNG BIỂU ĐỒ
+Nhóm biểu đồ Công ty chứng khoán
+
+Nhóm biểu đồ Công ty chứng khoán gồm 20 biểu đồ đại diện cho 7 nhóm chỉ số khác nhau: chỉ số định giá, chỉ số sinh lời, chỉ số tăng trưởng, cơ cấu lợi nhuận, chất lượng lợi nhuận và cơ cấu tài chính.
+
+Biểu đồ mẫu
+Có 5 nhóm biểu đồ: 
+
+1. Biểu đồ chỉ số định giá:
+
+Cổ tức - Thể hiện lượng cổ tức tiền mặt đã trả và tỷ lệ cổ tức đã trả/vốn điều lệ của công ty chứng khoán qua từng kỳ.
+
+2. Biểu đồ hiệu quả hoạt động
+
+ROE - Phân tích Dupont - Thể hiện đòn bẩy tài sản, vòng quay tài sản và biên lãi ròng của công ty chứng khoán qua từng kỳ .
+
+3. Nhóm biểu đồ cơ cấu lợi nhuận
+
+Doanh thu thuần - Thể hiện tốc độ tăng trưởng và tổng doanh thu hoạt động của công ty chứng khoán qua từng kỳ.
+
+Cơ cấu Lợi nhuận - Thể hiện cầu phần của lợi nhuận và doanh thu thuần về hoạt động kinh doanh của công ty chứng khoán qua từng kỳ.
+
+Cơ cấu Doanh thu & Chi phí - Thể hiện cấu phần của doanh thu, chi phí và lợi nhuận gộp của hoạt động kinh doanh của công ty chứng khoán qua từng kỳ.
+
+Cơ cấu Lợi nhuận gộp & Chi phí - Thể hiện cấu phần của lợi nhuận gộp và chi phí của công ty chứng khoán qua từng kỳ.
+
+Doanh thu thuần (Cả năm) - Thể hiện doanh thu thuần 4 quý của công ty chứng khoán qua từng năm.
+
+Lợi nhuận sau thuế (Cả năm) - Thể hiện lợi nhuận sau thuế 4 quý của công ty chứng khoán qua từng năm.
+
+4. Nhóm biểu đồ chỉ số sinh lời
+
+Biên lợi nhuận - Thể hiện biên lợi nhuần gộp, biên lợi nhuận thuần và biên lãi ròng của công ty chứng khoán qua từng kỳ.
+
+Hiệu quả quản lý - Thể hiện 2 chỉ số ROA, ROE của công ty chứng khoán qua từng kỳ.
+
+5. Nhóm biểu đồ chất lượng lợi nhuận
+
+Lưu chuyển dòng tiền - Thể hiện dòng tiền hoạt động tài chính, đầu tư tài chính ròng, dòng tiền hoạt động kinh doanh và dòng tiền ròng của công ty chứng khoán qua từng kỳ.
+
+Dòng tiền tự do (FCF) - Thể hiện dòng tiền tự do của công ty chứng khoán qua từng kỳ.
+
+Dòng tiền hoạt động Kinh doanh - Thể hiện dòng tiền hoạt động kinh doanh lũy kế 4 quý và mỗi quý của công ty chứng khoán.
+
+6. Nhóm biểu đồ chỉ số tăng trưởng
+
+Tăng trưởng Doanh thu & Lợi nhuận - Thể hiện tốc độ tăng trưởng doanh thu, EBIT và lợi nhuận sau thuế của công ty chứng khoán qua từng kỳ.
+
+Tăng trưởng cơ cấu doanh thu - Thể hiện tốc độ tăng trưởng lãi từ FVTPL và lãi từ cho vay của công ty chứng khoán qua từng kỳ.
+
+7. Nhóm biểu đồ cơ cấu tài chính
+
+Cơ cấu Tài sản - Thể hiện cấu phần của tài sản của công ty chứng khoán qua từng kỳ.
+
+Cơ cấu Nguồn vốn - Thể hiện cấu phần của nguồn vốn của công ty chứng khoán qua từng kỳ.
+
+Cơ cấu Tài sản ngắn hạn - Thể hiện cấu phần của tài sản ngắn hạn của công ty chứng khoán qua từng kỳ.
+
+Cơ cấu Tài sản dài hạn - Thể hiện cấu phần của tài sản dài hạn của công ty chứng khoán qua từng kỳ.
+
+Cơ cấu Vốn chủ sở hữu - Thể hiện cấu phần của vốn chủ sở hữu của công ty chứng khoán qua từng kỳ.
+
+Tất cả biểu đồ thuộc nhóm Công ty chứng khoán
+Previous
+Nhóm biểu đồ Ngân hàng
+Next
+Cá nhân hóa biểu đồ
+
+Last updated 2 years ago

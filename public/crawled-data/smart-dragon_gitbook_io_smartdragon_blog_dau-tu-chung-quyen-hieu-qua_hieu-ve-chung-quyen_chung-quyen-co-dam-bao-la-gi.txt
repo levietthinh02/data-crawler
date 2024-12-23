@@ -1,0 +1,41 @@
+💬
+BLOG
+🎯
+ĐẦU TƯ CHỨNG QUYỀN HIỆU QUẢ
+⛳
+HIỂU VỀ CHỨNG QUYỀN
+❓
+Chứng quyền có đảm bảo là gì?
+1. Định nghĩa
+
+Chứng quyền có đảm bảo (Covered Warrant) là chứng khoán có tài sản đảm bảo do công ty chứng khoán phát hành, cho phép người sở hữu được quyền mua (chứng quyền mua) hoặc được quyền bán (chứng quyền bán) CKCS cho tổ chức phát hành chứng quyền đó theo một mức giá đã được xác định trước, tại hoặc trước một thời điểm đã được ấn định, hoặc nhận khoản tiền chênh lệch giữa giá thực hiện và giá chứng khoán cơ sở tại thời điểm thực hiện.
+
+2. Phân loại
+
+Có 2 loại chứng quyền có đảm bảo: Chứng quyền mua và Chứng quyền bán.
+
+✅ Chứng quyền mua là loại CQ mà khi sở hữu, quý NĐT được quyền mua một số lượng CKCS theo mức giá thực hiện đã được xác định trước. Quý NĐT sở hữu CQ mua sẽ hưởng lợi từ biến động tăng của giá CKCS.
+
+✅ Chứng quyền bán là loại CQ mà khi sở hữu, quý NĐT được quyền bán một số lượng CKCS theo mức giá thực hiện đã được xác định trước. Quý NĐT sở hữu CQ bán sẽ hưởng lợi từ biến động giảm của giá CKCS.
+
+3. Khi nào nên đầu tư chứng quyền ? 
+
+Lưu ý: Tại Việt Nam
+
+👉 Hiện nay chỉ có Chứng quyền mua với tài sản cơ sở là cổ phiếu và thanh toán bằng tiền.
+
+👉 Chứng quyền mua không được phép chuyển đổi thành cổ phiếu tại kỳ đáo hạn.
+
+Ở giai đoạn đầu của vòng đời chứng quyền mua, giá chứng quyền và giá cổ phiếu có xu hướng biến động cùng chiều, và nó thể hiện kỳ vọng của quý nhà đầu tư về việc tăng giá của cổ phiếu trong tương lai. 
+
+Biểu đồ thể hiện sự tương quan biến động giá giữa CQ và CKCS
+Biểu đồ thể hiện sự tương quan biến động giá giữa CHPG2307 và HPG trong 1 tháng
+
+Do đó, Quý nhà đầu tư nên đầu tư chứng quyền khi xác định được xu hướng tăng giá của CKCS trong tương lai.
+
+Previous
+Hiểu về chứng quyền
+Next
+Cách đọc mã chứng quyền
+
+Last updated 11 months ago

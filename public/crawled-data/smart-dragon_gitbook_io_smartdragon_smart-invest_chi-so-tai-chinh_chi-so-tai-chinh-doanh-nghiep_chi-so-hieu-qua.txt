@@ -1,0 +1,39 @@
+📈
+SMART INVEST
+CHỈ SỐ TÀI CHÍNH
+CHỈ SỐ TÀI CHÍNH DOANH NGHIỆP
+Chỉ số hiệu quả
+
+Chỉ số hiệu quả phản ánh khả năng sinh lời và hiệu quả sử dụng tài sản của doanh nghiệp.
+
+Tỷ suất sinh lợi trên vốn (ROE) - Phản ánh khả năng sinh lời của một công ty liên quan đến vốn chủ sở hữu của các cổ đông.
+
+Tỷ suất sinh lợi trên tài sản (ROA) - Phản ánh mức độ hiệu quả mà một công ty có thể thu được từ việc đầu tư vào tài sản.
+
+Tỷ suất sinh lợi trên vốn sử dụng (ROCE) - Phản ánh lợi nhuận hoặc lợi suất mà doanh nghiệp kiếm được từ số vốn được sử dụng.
+
+Tỷ suất sinh lợi trên vốn đầu tư (ROIC) - Số tiền mà một doanh nghiệp tạo ra cao hơn chi phí trung bình mà doanh nghiệp trả cho nợ và vốn cổ phần của mình.
+
+Biên lợi nhuận gộp - Chênh lệch giữa doanh thu và giá vốn hàng bán chia cho doanh thu.
+
+Biên lợi nhuận hoạt động - Phản ánh mức lợi nhuận mà một công ty kiếm được từ một đồng doanh thu.
+
+Biên lợi nhuận trước thuế - Phản ánh khoản thu nhập trước thuế (lợi nhuận trước thuế) của một doanh nghiệp so với doanh thu.
+
+Biên lợi nhuận sau thuế - Phản ánh khoản thu nhập sau thuế (lợi nhuận sau thuế) của một doanh nghiệp so với doanh thu.
+
+EBITDA/Dòng tiền HĐ kinh doanh - Phản ánh thu nhập trước lãi vay, thuế và khấu hao trên tổng dòng tiền từ hoạt động kinh doanh.
+
+F-Score (điểm) - Đánh giá sức mạnh của tình hình tài chính của công ty.
+
+Lợi nhuận sau thuế/Dòng tiền HĐ kinh doanh - Phản ánh lợi nhuận sau thuế của doanh nghiệp trên tổng dòng tiền từ hoạt động kinh doanh.
+
+Lãi suất vay bình quân - Phần thu nhập bình quân cho những khoản tiền tiết kiệm hoặc cho vay để đáp ứng vốn cho nền kinh tế. 
+
+Chỉ số hiệu quả
+Previous
+Chỉ số tăng trưởng
+Next
+Chỉ số thanh khoản
+
+Last updated 2 years ago
